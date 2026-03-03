@@ -199,7 +199,7 @@ nav .nav ul a:hover {
     position: relative;
     border-radius: 20px;
     overflow: hidden;
-    background-image: url("/images/images.jpeg"); 
+    background-image: url("https://covers.openlibrary.org/b/isbn/9780201616224-L.jpg"); 
     background-size: cover;
     background-position: center;
     box-shadow: 0 20px 40px rgba(0,0,0,0.2);
